@@ -1,0 +1,2 @@
+# Hopecore-Comics
+Hopecore Comics
