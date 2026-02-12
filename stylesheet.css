@@ -1,5 +1,10 @@
 #page {
   margin-left: 5%;
   margin-right: 5%;
-  background-color: #222; 
+  background-color: #fff; 
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-image: linear-gradient(to bottom, grey, #919191);
 }
